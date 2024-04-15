@@ -12,8 +12,8 @@
 }
 
 #main input{
-    width: 300px;
-    padding: 5px;
+    width: 400px;
+    padding: 8px;
 }
 
 .heading{
@@ -21,11 +21,15 @@
 }
 
 .quote-container{
-    width: 300px;
+    width: 400px;
     margin-top: 1rem;
     background-color: #e9ecef;
     padding: 10px;
     border-radius: 5px;
+    transition: all 0.5s;
+}
+.quote-container:hover{
+    transform: scale(1.1);
 }
 
 .quote-container b{
