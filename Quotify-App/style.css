@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#root{
+    padding: 40px;
+}
+
+#main{
+    margin:2rem 0 0 7rem;
+}
+
+#main input{
+    width: 300px;
+    padding: 5px;
+}
+
+.heading{
+    color: rgb(110, 7, 188);
+}
+
+.quote-container{
+    width: 300px;
+    margin-top: 1rem;
+    background-color: #e9ecef;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.quote-container b{
+    display: block;
+    font-weight: 600;
+    text-align: end;
+}

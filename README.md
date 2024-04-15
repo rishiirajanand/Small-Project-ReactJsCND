@@ -16,4 +16,4 @@
 
 ## Output
 
-![output](https://github.com/rishiirajanand/parking-vehicle-count-using-ReactJsCDN/assets/96072806/78b8e81f-54d5-4ef7-b536-ae5d685f5fbb)
+![output](https://github.com/rishiirajanand/Small-Project-ReactJsCND/assets/96072806/beefd81c-ff84-4ba4-a68b-f45fc28ad4f9)
