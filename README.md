@@ -10,10 +10,18 @@
 
 ## Output
 
-![student-table](https://github.com/rishiirajanand/student-form-using-reactCDN/assets/96072806/10fc5c7b-5c3f-4d7a-af74-bbc331910582)
+![student-table](https://github.com/rishiirajanand/Small-Project-ReactJsCND/assets/96072806/2023ad1a-c3d0-4e01-9d83-70dc22f3e597)
 
 ## 2. Parking Vehicle Count
 
 ## Output
 
 ![output](https://github.com/rishiirajanand/Small-Project-ReactJsCND/assets/96072806/beefd81c-ff84-4ba4-a68b-f45fc28ad4f9)
+
+
+## 3. Quote Geneter App
+
+## Output
+
+![output](https://github.com/rishiirajanand/Small-Project-ReactJsCND/assets/96072806/e7ae1f81-b19c-4390-8ddc-5ecf9a63c806)
+
