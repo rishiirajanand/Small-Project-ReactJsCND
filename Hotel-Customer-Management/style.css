@@ -1,0 +1,26 @@
+#root{
+
+}
+.table-box{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td,th{
+    padding: 10px;
+}
+
+input{
+    width: 300px;
+    padding: 10px;
+    margin-top: 1rem;
+}
+button{
+    padding: 5px 10px;
+}
